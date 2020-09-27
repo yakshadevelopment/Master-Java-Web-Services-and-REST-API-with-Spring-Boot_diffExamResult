@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShowResultResponse xmlns="http://yaksha.edu/examapp" xsi:schemaLocation="http://yaksha.edu/examapp exam_result.xsd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<StudentResult>
+<roll>5</roll>
+<name>Rogers</name>
+<eng>80</eng>
+<lang>75</lang>
+<math>90</math>
+<science>80</science>
+<social-science>65</social-science>
+<total>390</total>
+<grade>Good</grade>
+</StudentResult>
+</ShowResultResponse>
+
+<!-- <AddNewStudentResponse xmlns="http://yaksha.edu/examapp" xsi:schemaLocation="http://yaksha.edu/examapp exam_result.xsd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<roll>10</roll>
+<name>Tom Walter</name>
+<status>Success</status>
+</AddNewStudentResponse> -->
+
